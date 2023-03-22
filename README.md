@@ -7,3 +7,6 @@ A pure functional programming language
     First-class functions, everything is an expression
     Custom types, recursion, modules, generics...
     Modules, imports and package manager
+    
+    how do I get an image into here?
+    
