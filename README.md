@@ -8,5 +8,3 @@ A pure functional programming language
     Custom types, recursion, modules, generics...
     Modules, imports and package manager
     
-    how do I get an image into here?
-    
